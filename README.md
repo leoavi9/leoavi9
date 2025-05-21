@@ -21,9 +21,8 @@ I'm an aspiring IT and cybersecurity professional transitioning from a 15-year c
 ## 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/leonardo-aviles-22758a214)
 - 📧 Email: Leo_a_14@yahoo.com
-- 🌐 [GitHub Portfolio](https://github.com/LeoAviles)
+- 🌐 [GitHub Portfolio](https://github.com/leoavi9)
 
 ---
 
 > “Every expert was once a beginner — I’m here to grow, build, and help.”
-
